@@ -2,3 +2,6 @@ pandas
 numpy
 matplotlib
 pymc3
+sklearn
+contractions
+ntlk
